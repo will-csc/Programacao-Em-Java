@@ -5,6 +5,7 @@ Bem-vindo ao repositório de **Lógica de Programação em Java**! Este reposit�
 ---
 ## **Livro Utilizado no Repositório**
 Think Java: How to Think Like a Computer Scientist
+![image](https://github.com/user-attachments/assets/042cbbd0-3c84-498b-8727-d228ce1abc3d)
 
 ## **Conteúdo do Repositório**
 
