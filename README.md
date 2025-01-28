@@ -1,4 +1,4 @@
-# Lógica de Programação em Java
+# Lógica de Programação em Java ☕
 
 Bem-vindo ao repositório de **Lógica de Programação em Java**! Este repositório tem como objetivo ajudar iniciantes a aprenderem os conceitos básicos de programação usando a linguagem Java. Aqui, você encontrará explicações teóricas junto aos exemplos práticos e exercícios para praticar utilizados no Livro.
 
