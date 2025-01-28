@@ -1,8 +1,10 @@
 # Lógica de Programação em Java
 
-Bem-vindo ao repositório de **Lógica de Programação em Java**! Este repositório tem como objetivo ajudar iniciantes a aprenderem os conceitos básicos de programação usando a linguagem Java. Aqui, você encontrará explicações teóricas, exemplos práticos e exercícios para praticar.
+Bem-vindo ao repositório de **Lógica de Programação em Java**! Este repositório tem como objetivo ajudar iniciantes a aprenderem os conceitos básicos de programação usando a linguagem Java. Aqui, você encontrará explicações teóricas junto aos exemplos práticos e exercícios para praticar utilizados no Livro.
 
 ---
+## **Livro Utilizado no Repositório**
+Think Java: How to Think Like a Computer Scientist
 
 ## **Conteúdo do Repositório**
 
@@ -86,30 +88,11 @@ public class HelloWorld {
 }
 ```
 
----
-
-## **Contribuição**
-
-Contribuições são muito bem-vindas! Sinta-se à vontade para:
-- Enviar melhorias nos códigos.
-- Adicionar novos exercícios.
-- Corrigir erros ou problemas na documentação.
-
-Para contribuir, basta abrir um pull request ou entrar em contato.
-
----
-
-## **Licença**
-
-Este repositório é licenciado sob a [MIT License](LICENSE).
-
----
-
 ## **Contato**
 
 Se tiver dúvidas ou sugestões, entre em contato:
-- Email: seuemail@example.com
-- LinkedIn: [Seu Perfil](https://www.linkedin.com/in/seu-perfil)
+- Email: williamcscarvalho2025@pm.me
+- LinkedIn: https://www.linkedin.com/in/william-cesar-7b7b89202/
 
 ---
 
