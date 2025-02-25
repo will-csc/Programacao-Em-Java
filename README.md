@@ -50,7 +50,7 @@ Bem-vindo ao repositório de **Lógica de Programação em Java**! Este reposit�
 
 1. **Clone o repositório** para sua máquina:
    ```bash
-   git clone https://github.com/seu-usuario/logica-programacao-java.git
+   git clone https://github.com/will-csc/Programacao-Em-Java.git
    ```
 
 2. **Abra os exemplos e exercícios** na sua IDE preferida (Eclipse, IntelliJ IDEA, VS Code, etc.).
