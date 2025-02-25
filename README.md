@@ -91,7 +91,7 @@ public class HelloWorld {
 ## **Contato**
 
 Se tiver dúvidas ou sugestões, entre em contato:
-- Email: williamcscarvalho2025@pm.me
+- Email: williamcscarvalho2025@pm.me | william.cesarbds2016@gmail.com
 - LinkedIn: https://www.linkedin.com/in/william-cesar-7b7b89202/
 
 ---
